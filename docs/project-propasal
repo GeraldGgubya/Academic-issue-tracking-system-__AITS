@@ -9,3 +9,11 @@ Objectives
   To enable administrators to manage and assign issues.
  To allow lecturers to resolve assigned issues.
  To provide notifications on issue status
+
+Scope
+  The system will include:
+  User authentication
+  Issue Submission
+  Issue Management
+  Role based Dashboards
+  Notifications
