@@ -1,0 +1,11 @@
+ACADEMIC ISSUE TRACKING SYSTEM (AITS)
+Problem Statement
+  Students at universities often experience issues with academic records such as missing marks, incorrect grades, or delayed corrections. These issues are currently handled manually, which causes delays, poor communication, and lack of transparency.
+Proposed Solution
+  The proposed solution is a web-based Academic Issue Tracking System (AITS) that allows students to submit academic issues online and track their progress while enabling administrators and lecturers to manage and resolve these issues efficiently.
+
+Objectives
+  To allow Students to submit academic issues online.
+  To enable administrators to manage and assign issues.
+ To allow lecturers to resolve assigned issues.
+ To provide notifications on issue status
