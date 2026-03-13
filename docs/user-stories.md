@@ -33,3 +33,21 @@ US-06 Monitor Issue Progress
 As an academic registrar,
 I want to monitor the progress of all reported issues,
 so that I can ensure that they are resolved within a reasonable time.
+
+## Lecturer
+
+US-07 View Assigned Issues
+As a lecturer,
+I want to view academic issues assigned to me,
+so that I can review the complaint and investigate the problem.
+
+US-08 Update Issue Status
+As a lecturer,
+I want to update the status of an issue after investigating it,
+so that the registrar and student know the progress.
+
+US-09 Provide Resolution Details
+As a lecturer,
+I want to provide comments or explanations when resolving an issue,
+so that the student understands how the issue was handled.
+
