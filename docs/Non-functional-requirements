@@ -1,0 +1,12 @@
+NON FUNCTIONAL REQUIREMENTS;
+    Security:
+        The system will protect user accounts and data.
+    Scalability:
+        The system will support many users simultaneously.
+    Usability:
+        The system will be simple,mobile friendly and accessible interface for both desktop and mobile phone users.
+    Reliability:
+        System uptime will be almost 99%.
+    Perfomance:
+        Fast load times even on low band width.
+    
