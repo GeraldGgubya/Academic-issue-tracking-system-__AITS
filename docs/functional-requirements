@@ -1,0 +1,7 @@
+Functinal Requirements;
+    The system will allow students to register accounts.
+    The system will allow students to log in and submit academic issues.
+    The system will allow registrars to review submitted issues.
+    The system will allow registrars to assign issues to lecturers.
+    The system will allow lecturers to update issue status.
+    The system will notify students when issue status changes.
